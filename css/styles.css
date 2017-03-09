@@ -1,0 +1,11 @@
+label{
+  display: block;
+}
+.wrapper{
+  position: absolute;
+  top: 2%;
+  left: 6%;
+}
+input[type="submit"]{
+  margin-top: 10px;
+}
